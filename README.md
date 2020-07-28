@@ -16,7 +16,7 @@ The basic task is to use the data to identify which groups of people are most re
  **income:** (numeric)  
  
  #### portfolio.json
- **Offers sent during 30-day test period (10 offers x 6 fields)
+ **Offers sent during 30-day test period** (10 offers x 6 fields)
  
  **reward:** (numeric) money awarded for the amount spent 
  **channels:** (list) web, email, mobile, social  
@@ -26,7 +26,7 @@ The basic task is to use the data to identify which groups of people are most re
  **id:** (string/hash)    
  
  #### transcript.json 
- **Event log (306648 events x 4 fields) 
+ **Event log** (306648 events x 4 fields)
  
  **person:** (string/hash)    
  **event:** (string) offer received, offer viewed, transaction, offer completed    
