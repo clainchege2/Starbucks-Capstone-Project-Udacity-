@@ -1,5 +1,5 @@
 # Starbucks-Capstone-Challenge 
-medium link: https://medium.com/@clainchege/starbucks-and-customers-2aaf94accf73?source=friends_link&sk=2ef21315be65d5d3bd51b478d6eb5af2
+
 ## Dataset overview
 The program used to create the data simulates how people make purchasing decisions and how those decisions are influenced by promotional offers.  
 Each person in the simulation has some hidden traits that influence their purchasing patterns and are associated with their observable traits. People produce various events, including receiving offers, opening offers, and making purchases.   
